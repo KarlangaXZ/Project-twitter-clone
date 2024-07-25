@@ -1,6 +1,6 @@
 **Description in english**
 
-# Twitter Clone https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmliZ2o2ZnF0YzhyODF6Yzl6bWlzMnhzNTluNTFicmlweTBxMHl2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MNa0HKdhc3SGQ/giphy.gif
+# Twitter Clone 
 
 ## Description
 
@@ -46,6 +46,8 @@ Developed by Carlos Linares ([KarlangaXZ](https://github.com/KarlangaXZ)).
 Thank you for reviewing this project! We hope you find this project useful. If you have any questions or suggestions, feel free to reach out to us.
 
 ##
+
+https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmliZ2o2ZnF0YzhyODF6Yzl6bWlzMnhzNTluNTFicmlweTBxMHl2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MNa0HKdhc3SGQ/giphy.gif
 
 **Descripcion en español**
 
