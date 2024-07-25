@@ -1,6 +1,7 @@
 **Description in english**
 
-# Twitter Clone 
+# Twitter Clone  ![image](https://github.com/user-attachments/assets/8272c168-cf14-4df3-b719-247ef7bfc3e8)
+
 
 ## Description
 
@@ -47,11 +48,11 @@ Thank you for reviewing this project! We hope you find this project useful. If y
 
 ##
 
-https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmliZ2o2ZnF0YzhyODF6Yzl6bWlzMnhzNTluNTFicmlweTBxMHl2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MNa0HKdhc3SGQ/giphy.gif
 
 **Descripcion en español**
 
-# Twitter Clone
+# Twitter Clone ![image](https://github.com/user-attachments/assets/0cef98b3-caad-4c78-a431-24f35a09f008)
+
 
 ## Descripción
 
