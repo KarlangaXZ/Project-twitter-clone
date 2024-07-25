@@ -51,7 +51,7 @@ Thank you for reviewing this project! We hope you find this project useful. If y
 
 **Descripcion en español**
 
-# Twitter Clone ![image](https://github.com/user-attachments/assets/0cef98b3-caad-4c78-a431-24f35a09f008)
+# Twitter Clone <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="50">
 
 
 ## Descripción
