@@ -21,6 +21,16 @@ const xBtn = document.querySelector('.sidebar-header i');
 const toggle = document.querySelector('.toggle');
 const circle = document.querySelector('.circle');
 
+
+//register page
+const signUpButton = document.querySelector('.sign-up');
+
+// Agregar un listener al botón para redirigir a "register.html"
+signUpButton.addEventListener('click', () => {
+    window.location.href = 'register.html';
+});
+
+// end register page
 const goToLoginPage = () => {
     mainPage.style.display = 'none';
     loginPage.style.display = 'grid';
